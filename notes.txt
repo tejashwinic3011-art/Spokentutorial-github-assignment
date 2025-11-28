@@ -1,1 +1,2 @@
 This is my first file for the GitHub assignment.
+Updating notes.txt to practice commits.
